@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nidhishri2392: Miss Nidhi Gopal - VLSI Engineer, researcher, faculty.
-- 👀 I’m interested in python programming, ASP.net, AI and ML, Data science.
+- 👀 I’m interested in python programming, ASP.net, AI and ML, Data science, ocean and wind monitoring, VLSI, Electronics engineering
 - 🌱 I’m currently learning Data analytics and its applications.
 - 💞️ I’m looking to collaborate on various projects involving research and programming.
 - 📫 How to reach me E: nid0203@gmail.com
