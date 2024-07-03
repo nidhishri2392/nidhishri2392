@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data analytics and its applications.
 - 💞️ I’m looking to collaborate on various projects involving research and programming.
 - 📫 How to reach me E: nid0203@gmail.com
-- 😄 Pronouns: Miss
+- 😄 Pronouns: Miss(She/Her/Hers)
 - ⚡ Fun fact: I learn from my mistakes and experiences, as we are human beings, born to make mistakes and learn from them!! :) Hard work and sincerity always pays off and we should work hard until signature becomes an autograph and the only person who never make mistakes is the person who never does anything!
 
 <!---
